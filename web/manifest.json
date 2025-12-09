@@ -1,6 +1,6 @@
 {
-    "name": "firebase",
-    "short_name": "firebase",
+    "name": "latihan_firebase",
+    "short_name": "latihan_firebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
